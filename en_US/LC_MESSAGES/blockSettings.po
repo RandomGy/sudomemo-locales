@@ -1,59 +1,59 @@
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
+msgstr "Bạn cần phải đăng nhập để quản lý những người bạn đã chặn."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
+msgstr "Bạn chưa chặn người nào."
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked Users"
+msgstr "Những người đã chặn"
 
 msgid "BLOCK_USER"
-msgstr "Block User"
+msgstr "Chặn người dùng"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+msgstr "Một khi bạn chặn người này, bạn sẽ không thể bình luận với nhau trên Flipnote."
 
 msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "This user has been blocked."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "Nếu bạn muốn bỏ chặn người này, thì bạn có thể vào phòng làm việc chọn những người đã chặn."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
+msgstr "Xác nhận chặn"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "Bạn đã chặn người này rồi. Bạn có thể huỷ chặn người này trong mục Cài đặt nằm trong phòng làm việc, nhưng bạn phải đợi 24 tiếng trước khi có thể chặn lại."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
+msgstr "Bạn đã chặn người này gần đây. Bạn phải đợi thêm %s"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Huỷ chặn"
 
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
+msgstr "Bạn phải đăng nhập mới tiếp tục dược hành động này."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to return to your Creator's Room."
+msgstr "Chọn Trở về để quay lại phòng làm việc."
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock User"
+msgstr "Bỏ chặn người dùng"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "You cannot unblock this user, as you haven't actually blocked them in the first place."
+msgstr "Bạn không thể bỏ chặn người này, vì bạn chưa chặn người ấy."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "You have unblocked this user."
+msgstr "Bạn đã huỷ chặn người này."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes again, unless they have you blocked as well."
+msgstr "Sau khi bạn đã huỷ chặn người này, họ có thể bình luận lại trên các Flipnote của bạn, trừ khi bạn cũng bị họ chặn."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+msgstr "Nếu bạn huỷ chặn người này, bạn phải đợi 24 tiếng mới có thể chặn lại người này."
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Confirm Unblock"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "You have recently unblocked this user. You must wait 24 hours from the time you unblocked them before you are able to block them again."
+msgstr "Bạn gần đây đã huỷ chặn người này. Bạn phải đợi 24 tiếng kể từ lúc bạn huỷ chặn mới có thể chặn lại người này."
